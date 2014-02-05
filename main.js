@@ -3,8 +3,8 @@
  */
 define([
 
-  './scripts/services/example_service',
-  './scripts/directives/example_directive',
-  './scripts/controllers/example_controller'
+  './services/example_service',
+  './directives/example_directive',
+  './controllers/example_controller'
 
 ], function() {});
