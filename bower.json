@@ -1,0 +1,24 @@
+{
+  "name": "frontend-example-module",
+  "version": "0.0.0",
+  "homepage": "https://github.com/CleverStack/frontend-example-module",
+  "authors": [
+    "Daniel Durante <me@danieldurante.com>"
+  ],
+  "description": "Example module for CleverStack's ecosystem.",
+  "main": "main.js",
+  "keywords": [
+    "cleverstack",
+    "cleverstack-module",
+    "cleverstack-frontend",
+    "frontend"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
