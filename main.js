@@ -5,6 +5,7 @@ define([
 
   './services/example_service',
   './directives/example_directive',
+  './factories/example_factory',
   './controllers/example_controller'
 
 ], function() {});

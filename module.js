@@ -7,12 +7,14 @@ define(['angular'], function (ng) {
   ng.module('frontend_example.controllers', []);
   ng.module('frontend_example.providers', []);
   ng.module('frontend_example.services', []);
+  ng.module('frontend_example.factories', []);
 
   var module = ng.module('frontend_example', [
     'cs_common',
     'frontend_example.controllers',
     'frontend_example.providers',
-    'frontend_example.services'
+    'frontend_example.services',
+    'frontend_example.factories'
   ]);
 
   module.config([
